@@ -14,7 +14,7 @@ A warehouse management system developed using SSM by Shaun and Arthur.
 ## 系统用例
 !(image/ware-usecase.png)
 ## 系统架构
-!(image/ware-er.png)
+![arch](./image/ware-er.png)
 ## 实体关系图
 !(image/ware-er.png)
 ## 系统详细请求映射图
