@@ -22,8 +22,7 @@ A warehouse management system developed using SSM by Shaun and Arthur.
 ## 系统详细请求映射图
 ![requests](image/ware-requests.png)
 ## 原系统测试环境
-
-Windows 7 & 10
-Eclipse Java EE IDE 2019-03 
-JDK 8u212 64-bit
-**请在Eclipse内下载Tomcat 6.0和Spring Tool Suite (STS) 3.9.9**
+Windows 7 & 10  
+Eclipse Java EE IDE 2019-03  
+JDK 8u212 64-bit  
+**请在Eclipse内下载Tomcat 6.0和Spring Tool Suite (STS) 3.9.9**  
