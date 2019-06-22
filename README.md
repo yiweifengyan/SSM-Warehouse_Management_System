@@ -12,13 +12,15 @@ A warehouse management system developed using SSM by Shaun and Arthur.
  - 代码编写	写代码实现所要求的功能
  - 系统测试	通过各种测试，验证系统符合要求
 ## 系统用例
-!(image/ware-usecase.png)
+![usecase](./image/ware-usecase.png)
 ## 系统架构
-![arch](./image/ware-er.png)
+![arch](./image/ware-arch.png)
 ## 实体关系图
-!(image/ware-er.png)
+![er](image/ware-er.png)
+## 页面关系图
+![pages](./image/ware-pages.png)
 ## 系统详细请求映射图
-!(image/ware-request.png)
+![requests](image/ware-requests.png)
 ## 原系统测试环境
 Windows 7 & 10
 Eclipse Java EE IDE 2019-03 
